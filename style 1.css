@@ -1,0 +1,53 @@
+.bad{
+background-image: url("Pictures/Camera Roll/adofo.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center ;
+}
+.nice{
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: large;
+    color: cornsilk;
+    border-radius: 60px;
+    margin-right: 200px;
+}
+.nicer{
+    background-color: rgba(57, 94, 95, 0.61);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nice:hover{
+    background-color: orange;
+    border: radius 60px; 
+    border-radius: 60px;
+}
+button{
+    margin-top: 50px;
+    padding: auto;
+    border-radius: 50px;
+    border-color: palegoldenrod;
+}
+.nicer:hover{
+    background-color: peru;
+}
+button:active{
+    background-color:gold;
+}
+
+.nic{
+    width:fit-content;
+    margin-left:auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+.nice{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.bass{
+    width: 100vw;
+    height: 100vh;
+
+}
